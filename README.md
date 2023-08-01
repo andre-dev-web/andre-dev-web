@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cccccc&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+André+Rodrigues;Tenho+20+anos;Sou+de+Ponta+Grossa+-PR;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=andre-rodrigues-dev&bg_color=transparent&title_color=cccccc&color=441d48&line=d2d2d2&point=c2c2c2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andre-rodrigues-dev&bg_color=ffffff&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=andre-rodrigues-dev&bg_color=transparent&title_color=ffffff&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
