@@ -11,8 +11,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andre-web-developer&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=441d48&text_color=c9d1d9&bg_color=0d1117" alt="André Rodrigues GitHub stats"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-web-developer&layout=compact&hide_border=true&title_color=ffffff&text_color=ece6f0&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andre-rodrigues-dev&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=441d48&text_color=c9d1d9&bg_color=0d1117" alt="André Rodrigues GitHub stats"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-rodrigues-dev&layout=compact&hide_border=true&title_color=ffffff&text_color=ece6f0&bg_color=0d1117" />
 </div>
 
 
@@ -28,7 +28,7 @@
 
 ### Studying in this moment:
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
-![Next.js](https://img.shields.io/badge/-nextjs-0D1117?style=for-the-badge&logo=next&labelColor=0D1117)&nbsp;
+![Next.js](https://img.shields.io/badge/-nextjs-0D1117?style=for-the-badge&logo=nextjs&labelColor=0D1117)&nbsp;
 ![Express.js](https://img.shields.io/badge/-express-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 </div>
