@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=441d48&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cccccc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Meu+nome+é+André+Rodrigues;Tenho+20+anos;Sou+de+Ponta+Grossa+-PR;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cccccc&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+André+Rodrigues;Tenho+20+anos;Sou+de+Ponta+Grossa+-PR;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=andre-rodrigues-dev&bg_color=transparent&title_color=cccccc&color=441d48&line=d2d2d2&point=c2c2c2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -28,8 +28,8 @@
 
 ### Studying in this moment:
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
-![Next.js](https://img.shields.io/badge/-nextjs-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
-![Express.js](https://img.shields.io/badge/-express-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
+![Next.js](https://img.shields.io/badge/-nextjs-0D1117?style=for-the-badge&logo=next&labelColor=0D1117)&nbsp;
+![Express.js](https://img.shields.io/badge/-express-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 </div>
 
